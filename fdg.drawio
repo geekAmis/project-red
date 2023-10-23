@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T19:34:59.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="yuhFD6CaHUUUVCVmPjUh" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T19:36:36.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="W6B-9bAb5_pWpxhtwPqX" version="22.0.6" type="github">
   <diagram name="Страница — 1" id="wmEAA7BOA9uUHoBaHZGH">
-    <mxGraphModel dx="6397" dy="3115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2418" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,6 +268,18 @@
         </mxCell>
         <mxCell id="ZbawlcPISgq_V3pElYDS-1" value="to do" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=1;swimlaneFillColor=#D5E8D4;" vertex="1" parent="wPuOChfjVIhBy_STEDwP-1">
           <mxGeometry x="1142" y="1269" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1RorNnHDaiJRJVY9LFrX-7" value="TO-DO List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZbawlcPISgq_V3pElYDS-1">
+          <mxGeometry y="31" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1RorNnHDaiJRJVY9LFrX-8" value="Установить Android Studio" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1RorNnHDaiJRJVY9LFrX-7">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1RorNnHDaiJRJVY9LFrX-9" value="Web App первый написать" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1RorNnHDaiJRJVY9LFrX-7">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1RorNnHDaiJRJVY9LFrX-10" value="Начать изучать Java для Android SDK" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1RorNnHDaiJRJVY9LFrX-7">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
