@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T17:29:05.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="0n-_rbIRnMJ4CGWhJ1G0" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T17:29:27.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="J_408lMaNdDt44EmTAcC" version="22.0.6" type="github">
   <diagram name="Страница — 1" id="wmEAA7BOA9uUHoBaHZGH">
-    <mxGraphModel dx="2261" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-40" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" parent="wPuOChfjVIhBy_STEDwP-3" vertex="1">
-          <mxGeometry x="27" y="265" width="333" height="300" as="geometry" />
+          <mxGeometry x="134" y="250" width="333" height="300" as="geometry" />
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-41" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="wPuOChfjVIhBy_STEDwP-40" vertex="1">
           <mxGeometry width="333" height="61" as="geometry" />
@@ -66,13 +66,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-43" value="Со-тим лид" style="connectable=0;recursiveResize=0;align=center;fontStyle=1;html=1;gradientColor=#000000;" parent="wPuOChfjVIhBy_STEDwP-41" vertex="1">
-          <mxGeometry x="111" width="111" height="61" as="geometry">
-            <mxRectangle width="111" height="61" as="alternateBounds" />
+          <mxGeometry x="111" width="109" height="61" as="geometry">
+            <mxRectangle width="109" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-44" value="Android Developer" style="connectable=0;recursiveResize=0;align=center;fontStyle=1;html=1;gradientColor=#000000;" parent="wPuOChfjVIhBy_STEDwP-41" vertex="1">
-          <mxGeometry x="222" width="111" height="61" as="geometry">
-            <mxRectangle width="111" height="61" as="alternateBounds" />
+          <mxGeometry x="220" width="113" height="61" as="geometry">
+            <mxRectangle width="113" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-45" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="wPuOChfjVIhBy_STEDwP-40" vertex="1">
@@ -84,13 +84,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-47" value="Задачи ти-лида" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;gradientColor=#000000;" parent="wPuOChfjVIhBy_STEDwP-45" vertex="1">
-          <mxGeometry x="111" width="111" height="60" as="geometry">
-            <mxRectangle width="111" height="60" as="alternateBounds" />
+          <mxGeometry x="111" width="109" height="60" as="geometry">
+            <mxRectangle width="109" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-48" value="Value 3" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;gradientColor=#000000;" parent="wPuOChfjVIhBy_STEDwP-45" vertex="1">
-          <mxGeometry x="222" width="111" height="60" as="geometry">
-            <mxRectangle width="111" height="60" as="alternateBounds" />
+          <mxGeometry x="220" width="113" height="60" as="geometry">
+            <mxRectangle width="113" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" parent="wPuOChfjVIhBy_STEDwP-40" vertex="1">
@@ -102,13 +102,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-51" value="Оформление документации по проекту" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=#000000;" parent="wPuOChfjVIhBy_STEDwP-49" vertex="1">
-          <mxGeometry x="111" width="111" height="59" as="geometry">
-            <mxRectangle width="111" height="59" as="alternateBounds" />
+          <mxGeometry x="111" width="109" height="59" as="geometry">
+            <mxRectangle width="109" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-52" value="Value 6" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=#000000;" parent="wPuOChfjVIhBy_STEDwP-49" vertex="1">
-          <mxGeometry x="222" width="111" height="59" as="geometry">
-            <mxRectangle width="111" height="59" as="alternateBounds" />
+          <mxGeometry x="220" width="113" height="59" as="geometry">
+            <mxRectangle width="113" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="wPuOChfjVIhBy_STEDwP-40" vertex="1">
@@ -120,13 +120,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-55" value="Создание инвестиционной модели" style="connectable=0;recursiveResize=0;fontStyle=0;align=center;whiteSpace=wrap;html=1;gradientColor=#000000;" parent="wPuOChfjVIhBy_STEDwP-53" vertex="1">
-          <mxGeometry x="111" width="111" height="61" as="geometry">
-            <mxRectangle width="111" height="61" as="alternateBounds" />
+          <mxGeometry x="111" width="109" height="61" as="geometry">
+            <mxRectangle width="109" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-56" value="Value 9" style="connectable=0;recursiveResize=0;fontStyle=0;align=center;whiteSpace=wrap;html=1;gradientColor=#000000;" parent="wPuOChfjVIhBy_STEDwP-53" vertex="1">
-          <mxGeometry x="222" width="111" height="61" as="geometry">
-            <mxRectangle width="111" height="61" as="alternateBounds" />
+          <mxGeometry x="220" width="113" height="61" as="geometry">
+            <mxRectangle width="113" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-57" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" parent="wPuOChfjVIhBy_STEDwP-40" vertex="1">
@@ -138,13 +138,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-59" value="Value 11" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=#000000;" parent="wPuOChfjVIhBy_STEDwP-57" vertex="1">
-          <mxGeometry x="111" width="111" height="59" as="geometry">
-            <mxRectangle width="111" height="59" as="alternateBounds" />
+          <mxGeometry x="111" width="109" height="59" as="geometry">
+            <mxRectangle width="109" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wPuOChfjVIhBy_STEDwP-60" value="Value 12" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=#000000;" parent="wPuOChfjVIhBy_STEDwP-57" vertex="1">
-          <mxGeometry x="222" width="111" height="59" as="geometry">
-            <mxRectangle width="111" height="59" as="alternateBounds" />
+          <mxGeometry x="220" width="113" height="59" as="geometry">
+            <mxRectangle width="113" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
