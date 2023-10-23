@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T19:12:12.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="6pF8V8JhGYMDoao7tGSO" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T19:12:57.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="NXjvmdUgJHi3ZSlEnnjG" version="22.0.6" type="github">
   <diagram name="Страница — 1" id="wmEAA7BOA9uUHoBaHZGH">
-    <mxGraphModel dx="5283" dy="2492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2138" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,11 +242,14 @@
         <mxCell id="ecCbB8mXPegNwwQ_q4Ne-3" value="Artem" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="wPuOChfjVIhBy_STEDwP-1">
           <mxGeometry x="2937" y="1299" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GjnDIeO1N9E6mI7xIxKH-2" value="front-end Artem" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="827" y="20" width="483" height="430" as="geometry" />
-        </mxCell>
-        <mxCell id="GjnDIeO1N9E6mI7xIxKH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="GjnDIeO1N9E6mI7xIxKH-2" vertex="1">
-          <mxGeometry x="6.5" y="50" width="473.5" height="380" as="geometry" />
+        <mxCell id="1RorNnHDaiJRJVY9LFrX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="wPuOChfjVIhBy_STEDwP-1" source="wPuOChfjVIhBy_STEDwP-7" target="ecCbB8mXPegNwwQ_q4Ne-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1157" y="375" />
+              <mxPoint x="1157" y="590" />
+              <mxPoint x="3002" y="590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
