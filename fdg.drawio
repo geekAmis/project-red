@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T17:29:27.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="J_408lMaNdDt44EmTAcC" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T17:34:04.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="fkD2lxbEeQMSbQtuzaHW" version="22.0.6" type="github">
   <diagram name="Страница — 1" id="wmEAA7BOA9uUHoBaHZGH">
-    <mxGraphModel dx="2261" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2193" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
             <mxRectangle width="111" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wPuOChfjVIhBy_STEDwP-47" value="Задачи ти-лида" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;gradientColor=#000000;" parent="wPuOChfjVIhBy_STEDwP-45" vertex="1">
+        <mxCell id="wPuOChfjVIhBy_STEDwP-47" value="Задачи тим-лида" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;gradientColor=#000000;" parent="wPuOChfjVIhBy_STEDwP-45" vertex="1">
           <mxGeometry x="111" width="109" height="60" as="geometry">
             <mxRectangle width="109" height="60" as="alternateBounds" />
           </mxGeometry>
