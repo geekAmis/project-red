@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T16:51:55.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="tY7gpArw8P9CWnjDkIWo" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T16:54:19.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="NzXeDDHO5lTs_5e6Y-Jr" version="22.0.6" type="github">
   <diagram name="Страница — 1" id="wmEAA7BOA9uUHoBaHZGH">
     <mxGraphModel dx="2065" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,29 +252,29 @@
         <mxCell id="1RorNnHDaiJRJVY9LFrX-4" value="Создать файловую архитектуру" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1RorNnHDaiJRJVY9LFrX-3" vertex="1">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1RorNnHDaiJRJVY9LFrX-5" value="Продумать точку входа" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1RorNnHDaiJRJVY9LFrX-3" vertex="1">
+        <mxCell id="DGDckitc5x2ZLKrtis0b-1" value="Разработка JS API для FrEND" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1RorNnHDaiJRJVY9LFrX-3" vertex="1">
           <mxGeometry y="60" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1RorNnHDaiJRJVY9LFrX-6" value="Разработать концепт базы данных" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1RorNnHDaiJRJVY9LFrX-3" vertex="1">
+        <mxCell id="1RorNnHDaiJRJVY9LFrX-5" value="Продумать точку входа" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1RorNnHDaiJRJVY9LFrX-3" vertex="1">
           <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DGDckitc5x2ZLKrtis0b-1" value="Разработка JS API для FrEND" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1RorNnHDaiJRJVY9LFrX-3" vertex="1">
+        <mxCell id="1RorNnHDaiJRJVY9LFrX-6" value="Разработать концепт базы данных" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1RorNnHDaiJRJVY9LFrX-3" vertex="1">
           <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZbawlcPISgq_V3pElYDS-1" value="to do" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=1;swimlaneFillColor=#D5E8D4;" parent="wPuOChfjVIhBy_STEDwP-1" vertex="1">
           <mxGeometry x="1157" y="1260" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1RorNnHDaiJRJVY9LFrX-7" value="TO-DO List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="ZbawlcPISgq_V3pElYDS-1" vertex="1">
-          <mxGeometry y="31" width="140" height="120" as="geometry" />
+          <mxGeometry y="31" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1RorNnHDaiJRJVY9LFrX-8" value="Установить Android Studio" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1RorNnHDaiJRJVY9LFrX-7" vertex="1">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1RorNnHDaiJRJVY9LFrX-9" value="Web App первый написать" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1RorNnHDaiJRJVY9LFrX-7" vertex="1">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1RorNnHDaiJRJVY9LFrX-10" value="Начать изучать Java для Android SDK" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1RorNnHDaiJRJVY9LFrX-7" vertex="1">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1RorNnHDaiJRJVY9LFrX-9" value="Web App первый написать" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1RorNnHDaiJRJVY9LFrX-7" vertex="1">
+          <mxGeometry y="90" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGDckitc5x2ZLKrtis0b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="wPuOChfjVIhBy_STEDwP-1" source="DGDckitc5x2ZLKrtis0b-1" target="ecCbB8mXPegNwwQ_q4Ne-1" edge="1">
           <mxGeometry relative="1" as="geometry">
