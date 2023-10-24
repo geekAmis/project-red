@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T16:51:33.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="xNfS9RJeTm_eUYMh9iPe" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T16:51:55.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="tY7gpArw8P9CWnjDkIWo" version="22.0.6" type="github">
   <diagram name="Страница — 1" id="wmEAA7BOA9uUHoBaHZGH">
     <mxGraphModel dx="2065" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -291,16 +291,16 @@
         <mxCell id="30Cc9dZLkE55pJdXaScc-2" value="TO-DO List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-1">
           <mxGeometry y="40" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="30Cc9dZLkE55pJdXaScc-3" value="Создать файловую архитектуру" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
+        <mxCell id="30Cc9dZLkE55pJdXaScc-4" value="Figma дизайн проект" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="30Cc9dZLkE55pJdXaScc-4" value="Figma дизайн проект" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
+        <mxCell id="30Cc9dZLkE55pJdXaScc-12" value="&lt;div&gt;Минимальный UI интерфейс&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
           <mxGeometry y="60" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="30Cc9dZLkE55pJdXaScc-5" value="&lt;div&gt;AI YOLO8 ,Подобрать картиночки разбитых дорог.&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
+        <mxCell id="30Cc9dZLkE55pJdXaScc-3" value="Создать файловую архитектуру" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
           <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="30Cc9dZLkE55pJdXaScc-12" value="&lt;div&gt;Минимальный UI интерфейс&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
+        <mxCell id="30Cc9dZLkE55pJdXaScc-5" value="&lt;div&gt;AI YOLO8 ,Подобрать картиночки разбитых дорог.&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
           <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
