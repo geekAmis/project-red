@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T22:35:48.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="tV0L0iaZYedHyhJc2_l6" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T22:36:01.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="iXMtO3dH-BUSA9ZKvSea" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="wmEAA7BOA9uUHoBaHZGH">
     <mxGraphModel dx="6135" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,7 +311,7 @@
         <mxCell id="9yurY8P1Rhn8xJQTDnDX-8" value="Добавить JS API" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="30Cc9dZLkE55pJdXaScc-2" vertex="1">
           <mxGeometry y="330" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VwcplrAGb98bV6_Q-LOq-24" value="Доработать фон, сделать его красивым" style="text;strokeColor=#2D7600;fillColor=#60a917;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
+        <mxCell id="VwcplrAGb98bV6_Q-LOq-24" value="Доработать фон, сделать его красивым" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
           <mxGeometry y="360" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P_oZMKMBcEGeksTnG8Cb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="wPuOChfjVIhBy_STEDwP-1" vertex="1">
