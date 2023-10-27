@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T16:09:40.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="nRh2MuKwYBBqMldZhU3j" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T16:29:48.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="lSeOsP4o1X6LRZ3ix_O0" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="wmEAA7BOA9uUHoBaHZGH">
-    <mxGraphModel dx="8145" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5853" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,10 +273,10 @@
           <mxGeometry y="320" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="30Cc9dZLkE55pJdXaScc-1" value="Задачи" style="swimlane;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;glass=1;swimlaneFillColor=#FF9933;" parent="wPuOChfjVIhBy_STEDwP-1" vertex="1">
-          <mxGeometry x="2782" y="1334" width="240" height="506" as="geometry" />
+          <mxGeometry x="2782" y="1334" width="240" height="856" as="geometry" />
         </mxCell>
         <mxCell id="30Cc9dZLkE55pJdXaScc-2" value="TO-DO List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="30Cc9dZLkE55pJdXaScc-1" vertex="1">
-          <mxGeometry y="30" width="240" height="420" as="geometry" />
+          <mxGeometry y="30" width="240" height="600" as="geometry" />
         </mxCell>
         <mxCell id="30Cc9dZLkE55pJdXaScc-3" value="Создать файловую архитектуру" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="30Cc9dZLkE55pJdXaScc-2" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -308,14 +308,44 @@
         <mxCell id="VwcplrAGb98bV6_Q-LOq-13" value="Убрать scrollbar у телефонов при пролистывании вниз" style="text;strokeColor=#2D7600;fillColor=#60a917;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="30Cc9dZLkE55pJdXaScc-2" vertex="1">
           <mxGeometry y="300" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9yurY8P1Rhn8xJQTDnDX-8" value="Добавить JS API" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="30Cc9dZLkE55pJdXaScc-2" vertex="1">
+        <mxCell id="t1dsRrVdtl0D_0A_69c8-1" value="Изменить разметку страницы согласно дизайн проекту" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
           <mxGeometry y="330" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VwcplrAGb98bV6_Q-LOq-24" value="Доработать фон, сделать его красивым" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="30Cc9dZLkE55pJdXaScc-2" vertex="1">
+        <mxCell id="9yurY8P1Rhn8xJQTDnDX-8" value="Добавить JS API" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="30Cc9dZLkE55pJdXaScc-2" vertex="1">
           <mxGeometry y="360" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VwcplrAGb98bV6_Q-LOq-25" value="Настроить цвета, сделать их в одной гамме/палитре" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="30Cc9dZLkE55pJdXaScc-2" vertex="1">
+        <mxCell id="VwcplrAGb98bV6_Q-LOq-24" value="Доработать фон, сделать его красивым" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="30Cc9dZLkE55pJdXaScc-2" vertex="1">
           <mxGeometry y="390" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VwcplrAGb98bV6_Q-LOq-25" value="Настроить цвета, сделать их в одной гамме/палитре" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="30Cc9dZLkE55pJdXaScc-2" vertex="1">
+          <mxGeometry y="420" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1dsRrVdtl0D_0A_69c8-2" value="Начать изучать как сделать анимации на JS" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
+          <mxGeometry y="450" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1dsRrVdtl0D_0A_69c8-3" value="Добавить страничку загрузки сайта" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
+          <mxGeometry y="480" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1dsRrVdtl0D_0A_69c8-4" value="Нормализировать картинки разработчиков" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
+          <mxGeometry y="510" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1dsRrVdtl0D_0A_69c8-5" value="Исправить баги с удержанием scroll вверх" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
+          <mxGeometry y="540" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1dsRrVdtl0D_0A_69c8-6" value="Сделать набросок итогового UI дизайна" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="30Cc9dZLkE55pJdXaScc-2">
+          <mxGeometry y="570" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1dsRrVdtl0D_0A_69c8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6d8764;strokeColor=#3A5431;" edge="1" parent="30Cc9dZLkE55pJdXaScc-2" source="t1dsRrVdtl0D_0A_69c8-1" target="VwcplrAGb98bV6_Q-LOq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1dsRrVdtl0D_0A_69c8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6d8764;strokeColor=#3A5431;" edge="1" parent="30Cc9dZLkE55pJdXaScc-2" source="t1dsRrVdtl0D_0A_69c8-1" target="VwcplrAGb98bV6_Q-LOq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1dsRrVdtl0D_0A_69c8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6d8764;strokeColor=#3A5431;" edge="1" parent="30Cc9dZLkE55pJdXaScc-2" source="t1dsRrVdtl0D_0A_69c8-1" target="t1dsRrVdtl0D_0A_69c8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1dsRrVdtl0D_0A_69c8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6d8764;strokeColor=#3A5431;" edge="1" parent="30Cc9dZLkE55pJdXaScc-2" source="t1dsRrVdtl0D_0A_69c8-1" target="t1dsRrVdtl0D_0A_69c8-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P_oZMKMBcEGeksTnG8Cb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="wPuOChfjVIhBy_STEDwP-1" vertex="1">
           <mxGeometry x="2520" y="2961" width="980" height="1160" as="geometry" />
@@ -426,6 +456,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VwcplrAGb98bV6_Q-LOq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="wPuOChfjVIhBy_STEDwP-1" source="30Cc9dZLkE55pJdXaScc-4" target="VwcplrAGb98bV6_Q-LOq-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1dsRrVdtl0D_0A_69c8-7" value="&lt;div align=&quot;left&quot;&gt;Разработать элементы новостных slide-scroll-right bar.&lt;br&gt;Разработать дизайн новостные странички.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Разработать дизайн&amp;nbsp; открытия новостных постов (js анимации)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Разработать админ панель с возможностью:&lt;br&gt;1. Создавать новостные посты (Загружать картинку, писать заголовок, текст темы и описание)&lt;br&gt;2. Отслеживать трафик пользователей (Каждый запрос должен быть виден в формате таблички)&lt;br&gt;3. Дизайн странички ошибок 404, 403, 405, 401, 402,500&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;align=left;" vertex="1" parent="wPuOChfjVIhBy_STEDwP-1">
+          <mxGeometry x="3073.68" y="1810" width="242" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="t1dsRrVdtl0D_0A_69c8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wPuOChfjVIhBy_STEDwP-1" source="t1dsRrVdtl0D_0A_69c8-6" target="t1dsRrVdtl0D_0A_69c8-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
