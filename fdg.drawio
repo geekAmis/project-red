@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T12:12:41.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="WtpSA0abrR0O0-xQkdA_" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T10:47:38.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0 (Edition Yx GX 03)" etag="ksDbnz1iQzEhcJhPxPqD" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="wmEAA7BOA9uUHoBaHZGH">
-    <mxGraphModel dx="5759" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5923" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,7 +263,7 @@
         <mxCell id="9yurY8P1Rhn8xJQTDnDX-13" value="Оптимизировать WebApp для работы с JS" style="text;strokeColor=#005700;fillColor=#008a00;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="1RorNnHDaiJRJVY9LFrX-7" vertex="1">
           <mxGeometry y="210" width="354" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9yurY8P1Rhn8xJQTDnDX-14" value="Создать набросок дизайна страницы с камерой" style="text;strokeColor=#C73500;fillColor=#fa6800;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1RorNnHDaiJRJVY9LFrX-7" vertex="1">
+        <mxCell id="9yurY8P1Rhn8xJQTDnDX-14" value="Создать набросок дизайна страницы с камерой" style="text;strokeColor=#005700;fillColor=#008a00;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="1RorNnHDaiJRJVY9LFrX-7" vertex="1">
           <mxGeometry y="240" width="354" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9yurY8P1Rhn8xJQTDnDX-15" value="Разработать переход с WebApp до прилоения с камерой" style="text;strokeColor=#C73500;fillColor=#fa6800;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1RorNnHDaiJRJVY9LFrX-7" vertex="1">
